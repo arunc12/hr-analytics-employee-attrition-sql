@@ -110,9 +110,16 @@ Plus a **15-KPI framework** for leadership to track progress (early-tenure attri
 
 ---
 
-## 👤 Author
 
-**Arun C** — Aspiring Data Analyst
-*Skills: SQL · Power BI · Excel · Data Storytelling*
+## 👨‍💻 Author
 
-⭐ If you found this project useful, feel free to star the repo!
+**Arun C**
+
+Data Analyst | Power BI Developer
+📧 Email: (arunchinnasamy3@gmail.com)
+
+💼 LinkedIn: (www.linkedin.com/in/arun-c-b51b4b2a2)
+
+🌐 GitHub: (arunc12)/https://github.com/arunc12
+
+If you found this project useful or have any feedback, feel free to reach out!
