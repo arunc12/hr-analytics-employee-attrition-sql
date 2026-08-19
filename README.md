@@ -85,7 +85,7 @@ The entire analysis was performed in **MySQL** using a structured 5-phase approa
 1. **Structured 90-day onboarding program** — prioritized for Sales & HR (highest early attrition)
 2. **Monthly engagement pulse surveys** — convert engagement from an annual metric into a real-time early-warning system
 3. **Manager quality initiative** — 360° feedback and manager effectiveness scorecards
-4. **Minimum 20 training hours per employee per year** — based on the observed retention threshold
+4. **Minimum 20 hours training  per employee per year** — based on the observed retention threshold
 5. **Transparent promotion pathways** — published criteria and timelines for every role
 6. **Targeted satisfaction fixes** — focus on management support, compensation communication, and work-life balance (the three dimensions with proven attrition links)
 
