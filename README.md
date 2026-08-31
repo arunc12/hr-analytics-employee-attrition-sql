@@ -1,10 +1,6 @@
 # 📊 HR Analytics — Employee Attrition Analysis (SQL)
 
-**Analyzing why a consulting firm loses nearly 1 in 2 employees — and what can realistically fix it.**
-
-![Dashboard](HR_Analytics_Dashboard.png)
-
----
+**Analyzing why a consulting firm loses nearly 1 in 2 employees — and what can realistically fix it.*
 
 ## 📌 Project Overview
 
